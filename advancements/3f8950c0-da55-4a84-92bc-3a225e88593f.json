@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "triumph:advancements/deaths/fire": {
+    "criteria": {
+      "Fire": "2024-05-12 23:54:37 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/barbed_wire": {
     "criteria": {
       "Barbed Wire": "2024-05-11 18:31:28 +1000"
@@ -178,6 +184,18 @@
   "triumph:advancements/magick/leyoftheland/magicite": {
     "criteria": {
       "Magicite Harvest": "2024-05-11 22:09:51 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/fortuneandglory/leggings": {
+    "criteria": {
+      "Leather leggings": "2024-05-12 23:54:37 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/pot": {
+    "criteria": {
+      "Craft pot": "2024-05-12 23:54:37 +1000"
     },
     "done": true
   },
@@ -330,10 +348,11 @@
   "triumph:advancements/setbonuses/column0/chainarmor": {
     "criteria": {
       "Chainmail Helmet": "2024-05-11 15:06:08 +1000",
+      "Chainmail Boots": "2024-05-12 23:54:37 +1000",
       "Chainmail Chestplate": "2024-05-11 15:06:01 +1000",
       "Chainmail Leggings": "2024-05-11 12:47:51 +1000"
     },
-    "done": false
+    "done": true
   },
   "triumph:advancements/storage/cabinet": {
     "criteria": {
@@ -527,9 +546,11 @@
   "triumph:advancements/setbonuses/column0/fortuneandglory/fortuneandglory": {
     "criteria": {
       "Backpack": "2024-05-11 15:03:13 +1000",
-      "Any Leather Boots": "2024-05-11 20:41:47 +1000"
+      "Any Leather Boots": "2024-05-11 20:41:47 +1000",
+      "Archaeologist Hat": "2024-05-12 23:54:37 +1000",
+      "Any Leather Leggings": "2024-05-12 23:54:37 +1000"
     },
-    "done": false
+    "done": true
   },
   "triumph:advancements/magick/sygaldry/mundanemortar": {
     "criteria": {
@@ -649,7 +670,9 @@
     "criteria": {
       "goldarmor": "2024-05-11 20:41:52 +1000",
       "ferrousgiant": "2024-05-11 20:41:47 +1000",
-      "silverarmor": "2024-05-10 20:28:02 +1000"
+      "chainarmor": "2024-05-12 23:54:37 +1000",
+      "silverarmor": "2024-05-10 20:28:02 +1000",
+      "fortuneandglory": "2024-05-12 23:54:37 +1000"
     },
     "done": false
   },
