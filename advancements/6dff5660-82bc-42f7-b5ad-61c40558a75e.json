@@ -1,0 +1,629 @@
+{
+  "triumph:advancements/progression/nether/obtainobsidian": {
+    "criteria": {
+      "obtain obsidian": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/lapis": {
+    "criteria": {
+      "Lapis": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/lignite": {
+    "criteria": {
+      "Lignite": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/golemancy/golemancy": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/hidden/hiddenkilledharvester": {
+    "criteria": {
+      "impossible": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/nails": {
+    "criteria": {
+      "Caltrops": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/tin": {
+    "criteria": {
+      "Tin ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/dungarees": {
+    "criteria": {
+      "Boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": false
+  },
+  "aesthetics:recipes/diamond_decor": {
+    "criteria": {
+      "has_diamond": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/redstone": {
+    "criteria": {
+      "Redstone": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/alchemy": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/slayersjournal": {
+    "criteria": {
+      "Slayer\u0027s Tattered Journal": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/ruby": {
+    "criteria": {
+      "Ruby": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/totem": {
+    "criteria": {
+      "Totem": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "chutes:wood": {
+    "criteria": {
+      "has_planks": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/sygaldry": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/deaths/creeper": {
+    "criteria": {
+      "Creeper": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/barbed_wire": {
+    "criteria": {
+      "Barbed Wire": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/column1": {
+    "criteria": {
+      "dedicatedWorker": "2024-05-12 12:28:52 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/magick/leyoftheland/defiled": {
+    "criteria": {
+      "DefiledLands6": "2024-05-12 13:16:23 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/magick/sygaldry/runicworkbench": {
+    "criteria": {
+      "Runic Workbench": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/theurgy/theurgy": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/mundanewood": {
+    "criteria": {
+      "Mundane Sapling": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/boots": {
+    "criteria": {
+      "Iron boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/magicite": {
+    "criteria": {
+      "Magicite Harvest": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/to_do_list": {
+    "criteria": {
+      "Old To-Do Clipboard": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/backpack": {
+    "criteria": {
+      "Craft Backpack": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/fortuneandglory/boots": {
+    "criteria": {
+      "Leather boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killpiedpiper": {
+    "criteria": {
+      "pied_piper": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/diamond": {
+    "criteria": {
+      "Diamond": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/magicforest": {
+    "criteria": {
+      "Mystic Grove": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/dungarees_boots": {
+    "criteria": {
+      "Iron boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "aesthetics:recipes/iron_decor": {
+    "criteria": {
+      "has_iron": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/netherwarning": {
+    "criteria": {
+      "entered": "2024-05-12 12:43:35 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/dedicatedworker/helmet": {
+    "criteria": {
+      "Jungle helmet": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/recruit_help/golem": {
+    "criteria": {
+      "Golem Malkuth": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/herblore": {
+    "criteria": {
+      "Herb": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/barrelrustic": {
+    "criteria": {
+      "Craft rustic_barrel": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
+    "criteria": {
+      "Iron Chestplate": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandpowder": {
+    "criteria": {
+      "powderGet": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandlore": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/food_book": {
+    "criteria": {
+      "Epicurean\u0027s Tattered Dietary Guide": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "aesthetics:recipes/copper_decor": {
+    "criteria": {
+      "has_copper": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/nether/enternether": {
+    "criteria": {
+      "entered_nether": "2024-05-12 12:44:20 +1000"
+    },
+    "done": true
+  },
+  "toroquest:base": {
+    "criteria": {
+      "tick": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/obtain_logs": {
+    "criteria": {
+      "obtain logs": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/make_alcohol": {
+    "criteria": {
+      "obtain materialHoneycomb": "2024-05-12 12:28:52 +1000",
+      "obtain cropApple": "2024-05-12 12:28:52 +1000",
+      "obtain cropRice": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/killedharvester": {
+    "criteria": {
+      "Harvester": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/cabinet": {
+    "criteria": {
+      "Craft Cabinet": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/root": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/fullearlyarmor": {
+    "criteria": {
+      "Silver Armor": "2024-05-12 12:28:52 +1000",
+      "Gold Armor": "2024-05-12 12:28:52 +1000",
+      "Iron Armor": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/reforgerare": {
+    "criteria": {
+      "RareMod23": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/legendaryconqueror": {
+    "criteria": {
+      "myrmex_queen": "2024-05-12 12:28:52 +1000",
+      "pied_piper": "2024-05-12 12:28:52 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/ores/gold": {
+    "criteria": {
+      "Gold ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/cauldron": {
+    "criteria": {
+      "Cauldron": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/evocation/evocation": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/leyoftheland": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/death": {
+    "criteria": {
+      "Death": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/smashing/smashing": {
+    "criteria": {
+      "Troll Weapon": "2024-05-12 12:28:52 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/magick/alchemy/visspeck": {
+    "criteria": {
+      "Vis Speck": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/curse": {
+    "criteria": {
+      "Curse10": "2024-05-12 12:28:52 +1000",
+      "Curse12": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/coal": {
+    "criteria": {
+      "Lapis": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/dedicatedworker/dedicatedworker": {
+    "criteria": {
+      "Myrmex Helmet": "2024-05-12 12:28:52 +1000",
+      "Myrmex Leggings": "2024-05-12 12:28:52 +1000",
+      "Myrmex Chestplate": "2024-05-12 12:28:52 +1000",
+      "Myrmex Boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/nether/steel": {
+    "criteria": {
+      "Crude Steel": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/entervillage": {
+    "criteria": {
+      "village": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/smashing/mainhand": {
+    "criteria": {
+      "Forest Column": "2024-05-12 12:28:52 +1000",
+      "Axe": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/dedicatedworker/chestplate": {
+    "criteria": {
+      "Jungle chestplate": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/warding/warding": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/silver": {
+    "criteria": {
+      "Silver ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killedharvester": {
+    "criteria": {
+      "Harvester": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column6/takingaim": {
+    "criteria": {
+      "Silver Boots": "2024-05-12 12:46:59 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/setbonuses/column1/dedicatedworker/leggings": {
+    "criteria": {
+      "Jungle leggings": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "toroquest:quest": {
+    "criteria": {
+      "quest": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/bronze": {
+    "criteria": {
+      "Bronze": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column1/dedicatedworker/boots": {
+    "criteria": {
+      "Jungle boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/fortuneandglory/fortuneandglory": {
+    "criteria": {
+      "Any Leather Boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/helmet": {
+    "criteria": {
+      "Iron Helmet": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/mundanemortar": {
+    "criteria": {
+      "Mundane Mortar": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/copper": {
+    "criteria": {
+      "Copper ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/wroughtiron": {
+    "criteria": {
+      "Crude Iron": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/vissliver": {
+    "criteria": {
+      "Vis Sliver": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/talismancy": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/silverarmor": {
+    "criteria": {
+      "Silver Leggings": "2024-05-12 12:28:52 +1000",
+      "Silver Boots": "2024-05-12 12:28:52 +1000",
+      "Silver Chestplate": "2024-05-12 12:28:52 +1000",
+      "Silver Helmet": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/nether/gems": {
+    "criteria": {
+      "Gems": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "aesthetics:recipes/gold_decor": {
+    "criteria": {
+      "has_gold": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/crudesteel": {
+    "criteria": {
+      "Crude Steel": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/leggings": {
+    "criteria": {
+      "Iron Leggings": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/chest": {
+    "criteria": {
+      "Craft Chest": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/earlyarmor": {
+    "criteria": {
+      "Early Armor": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/ferrousgiant": {
+    "criteria": {
+      "Iron/Steel Helmet": "2024-05-12 12:28:52 +1000",
+      "Iron/Steel Chestplate": "2024-05-12 12:28:52 +1000",
+      "Iron/Steel Leggings": "2024-05-12 12:28:52 +1000",
+      "Iron/Steel Boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/sapphire": {
+    "criteria": {
+      "Sapphire": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/iron": {
+    "criteria": {
+      "Iron ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/incantation": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/column0": {
+    "criteria": {
+      "goldarmor": "2024-05-12 12:28:52 +1000",
+      "ferrousgiant": "2024-05-12 12:28:52 +1000",
+      "silverarmor": "2024-05-12 12:28:52 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/basedefense/recruit_help/recruit_help": {
+    "criteria": {
+      "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/scroll_newlife": {
+    "criteria": {
+      "impossible": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killmyrmexqueen": {
+    "criteria": {
+      "myrmex_queen": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/peridot": {
+    "criteria": {
+      "Alexandrite": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/goldarmor": {
+    "criteria": {
+      "Gold Boots": "2024-05-12 12:28:52 +1000",
+      "Gold Chestplate": "2024-05-12 12:28:52 +1000",
+      "Gold Helmet": "2024-05-12 12:28:52 +1000",
+      "Gold Leggings": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  }
+}
