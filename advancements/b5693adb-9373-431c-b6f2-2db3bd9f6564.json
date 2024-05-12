@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "triumph:advancements/deaths/fire": {
+    "criteria": {
+      "Fire": "2024-05-12 22:29:44 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/barbed_wire": {
     "criteria": {
       "Barbed Wire": "2024-05-11 20:41:47 +1000"
@@ -129,7 +135,8 @@
     "criteria": {
       "Leather Helmet": "2024-05-11 14:55:25 +1000",
       "Leather Chesplate": "2024-05-11 22:10:59 +1000",
-      "Leather Boots": "2024-05-11 19:43:40 +1000"
+      "Leather Boots": "2024-05-11 19:43:40 +1000",
+      "Leather Leggings": "2024-05-12 21:18:22 +1000"
     },
     "done": false
   },
@@ -172,6 +179,18 @@
   "triumph:advancements/magick/leyoftheland/magicite": {
     "criteria": {
       "Magicite Harvest": "2024-05-11 22:09:51 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/fortuneandglory/leggings": {
+    "criteria": {
+      "Leather leggings": "2024-05-12 21:18:22 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/pot": {
+    "criteria": {
+      "Craft pot": "2024-05-12 22:47:45 +1000"
     },
     "done": true
   },
@@ -315,6 +334,15 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column0/chainarmor": {
+    "criteria": {
+      "Chainmail Helmet": "2024-05-12 20:45:44 +1000",
+      "Chainmail Boots": "2024-05-12 20:45:44 +1000",
+      "Chainmail Chestplate": "2024-05-12 20:45:44 +1000",
+      "Chainmail Leggings": "2024-05-12 20:45:44 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/storage/cabinet": {
     "criteria": {
       "Craft Cabinet": "2024-05-11 20:41:52 +1000"
@@ -445,6 +473,7 @@
   },
   "triumph:advancements/magick/talismancy/reforgerareall": {
     "criteria": {
+      "RareMod5": "2024-05-12 21:45:45 +1000",
       "RareMod24": "2024-05-11 23:43:05 +1000",
       "RareMod23": "2024-05-11 22:30:31 +1000"
     },
@@ -514,9 +543,11 @@
   "triumph:advancements/setbonuses/column0/fortuneandglory/fortuneandglory": {
     "criteria": {
       "Backpack": "2024-05-11 15:02:16 +1000",
-      "Any Leather Boots": "2024-05-11 19:43:40 +1000"
+      "Any Leather Boots": "2024-05-11 19:43:40 +1000",
+      "Archaeologist Hat": "2024-05-12 21:18:22 +1000",
+      "Any Leather Leggings": "2024-05-12 21:18:22 +1000"
     },
-    "done": false
+    "done": true
   },
   "triumph:advancements/setbonuses/column0/ferrousgiant/helmet": {
     "criteria": {
@@ -636,7 +667,9 @@
     "criteria": {
       "ferrousgiant": "2024-05-10 21:40:40 +1000",
       "goldarmor": "2024-05-11 20:41:52 +1000",
-      "silverarmor": "2024-05-11 19:03:24 +1000"
+      "chainarmor": "2024-05-12 20:45:44 +1000",
+      "silverarmor": "2024-05-11 19:03:24 +1000",
+      "fortuneandglory": "2024-05-12 21:18:22 +1000"
     },
     "done": false
   },
