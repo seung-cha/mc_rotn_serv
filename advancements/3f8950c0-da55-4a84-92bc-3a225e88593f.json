@@ -19,7 +19,8 @@
   },
   "triumph:advancements/setbonuses/column0/gladiator": {
     "criteria": {
-      "Bronze Boots": "2024-05-12 12:19:33 +1000"
+      "Bronze Boots": "2024-05-12 12:19:33 +1000",
+      "Bronze Leggings": "2024-05-13 16:32:19 +1000"
     },
     "done": false
   },
@@ -141,7 +142,8 @@
   "triumph:advancements/setbonuses/column0/leatherarmor": {
     "criteria": {
       "Leather Helmet": "2024-05-10 21:47:09 +1000",
-      "Leather Chesplate": "2024-05-11 13:02:12 +1000"
+      "Leather Chesplate": "2024-05-11 13:02:12 +1000",
+      "Leather Leggings": "2024-05-13 14:46:22 +1000"
     },
     "done": false
   },
@@ -208,6 +210,12 @@
   "triumph:advancements/setbonuses/column0/fortuneandglory/boots": {
     "criteria": {
       "Leather boots": "2024-05-11 20:41:47 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandpowderpouch": {
+    "criteria": {
+      "pouchCraft": "2024-05-13 16:36:30 +1000"
     },
     "done": true
   },
@@ -376,7 +384,8 @@
     "criteria": {
       "Silver Armor": "2024-05-10 20:28:02 +1000",
       "Gold Armor": "2024-05-12 11:45:55 +1000",
-      "Iron Armor": "2024-05-11 20:41:47 +1000"
+      "Iron Armor": "2024-05-11 20:41:47 +1000",
+      "Chain Armor": "2024-05-13 14:41:46 +1000"
     },
     "done": true
   },
@@ -478,13 +487,15 @@
   },
   "triumph:advancements/setbonuses/column0/powerfulpunches": {
     "criteria": {
-      "Bronze Boots": "2024-05-12 12:19:33 +1000"
+      "Bronze Boots": "2024-05-12 12:19:33 +1000",
+      "Bronze Leggings": "2024-05-13 16:32:19 +1000"
     },
     "done": false
   },
   "triumph:advancements/setbonuses/column0/bronzearmor": {
     "criteria": {
-      "Bronze Boots": "2024-05-12 12:19:33 +1000"
+      "Bronze Boots": "2024-05-12 12:19:33 +1000",
+      "Bronze Leggings": "2024-05-13 16:32:19 +1000"
     },
     "done": false
   },
