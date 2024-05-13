@@ -1,1 +1,2 @@
-FullGoldArmorBonus
+IronSwordAndShieldBonus
+FullSilverArmorBonus

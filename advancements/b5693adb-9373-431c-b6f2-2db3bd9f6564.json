@@ -125,9 +125,21 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/sygaldry/mundanerune": {
+    "criteria": {
+      "Mundane Rune": "2024-05-13 20:51:27 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column1/column1": {
     "criteria": {
       "dedicatedWorker": "2024-05-11 21:09:11 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/magick/leyoftheland/defiled": {
+    "criteria": {
+      "DefiledLands5": "2024-05-13 22:15:14 +1000"
     },
     "done": false
   },
@@ -206,6 +218,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/wandlore/wandpowderpouch": {
+    "criteria": {
+      "pouchCraft": "2024-05-13 20:21:55 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/killpiedpiper": {
     "criteria": {
       "pied_piper": "2024-05-11 20:41:47 +1000"
@@ -277,6 +295,12 @@
       "powderGet": "2024-05-11 14:38:48 +1000"
     },
     "done": true
+  },
+  "triumph:advancements/progression/guidebook/improvingshelter": {
+    "criteria": {
+      "stone brick": "2024-05-13 21:39:10 +1000"
+    },
+    "done": false
   },
   "triumph:advancements/magick/wandlore/wandlore": {
     "criteria": {
@@ -365,7 +389,8 @@
     "criteria": {
       "Silver Armor": "2024-05-12 11:56:09 +1000",
       "Gold Armor": "2024-05-12 11:56:09 +1000",
-      "Iron Armor": "2024-05-10 21:40:40 +1000"
+      "Iron Armor": "2024-05-10 21:40:40 +1000",
+      "Chain Armor": "2024-05-13 20:21:55 +1000"
     },
     "done": true
   },
