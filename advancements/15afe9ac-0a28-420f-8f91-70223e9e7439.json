@@ -131,6 +131,12 @@
     },
     "done": false
   },
+  "triumph:advancements/magick/leyoftheland/defiled": {
+    "criteria": {
+      "DefiledLands6": "2024-05-14 01:01:18 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/setbonuses/column0/leatherarmor": {
     "criteria": {
       "Leather Helmet": "2024-05-13 23:39:48 +1000",
@@ -159,6 +165,12 @@
   "triumph:advancements/magick/leyoftheland/mundanewood": {
     "criteria": {
       "Mundane Sapling": "2024-05-13 23:38:27 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killelderfrostmaw": {
+    "criteria": {
+      "frostmaw": "2024-05-14 01:13:24 +1000"
     },
     "done": true
   },
@@ -383,7 +395,9 @@
   "triumph:advancements/bosskills/legendaryconqueror": {
     "criteria": {
       "myrmex_queen": "2024-05-13 23:38:27 +1000",
-      "pied_piper": "2024-05-13 23:38:27 +1000"
+      "frostmaw": "2024-05-14 01:13:24 +1000",
+      "pied_piper": "2024-05-13 23:38:27 +1000",
+      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000"
     },
     "done": false
   },
@@ -470,6 +484,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/talismancy/reforgerareall": {
+    "criteria": {
+      "RareMod5": "2024-05-14 00:50:19 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/setbonuses/column1/dedicatedworker/chestplate": {
     "criteria": {
       "Jungle chestplate": "2024-05-13 23:38:27 +1000"
@@ -479,6 +499,12 @@
   "triumph:advancements/magick/warding/warding": {
     "criteria": {
       "location": "2024-05-13 23:35:34 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killferrouswroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000"
     },
     "done": true
   },

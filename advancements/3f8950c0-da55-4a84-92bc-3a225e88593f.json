@@ -43,6 +43,12 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column3/walkingfortress": {
+    "criteria": {
+      "Wrought Helmet": "2024-05-14 00:00:35 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/magick/talismancy/reforgingstation": {
     "criteria": {
       "reforgeStationCraft": "2024-05-12 13:47:40 +1000"
@@ -142,7 +148,8 @@
   "triumph:advancements/magick/leyoftheland/defiled": {
     "criteria": {
       "DefiledLands4": "2024-05-10 19:58:39 +1000",
-      "DefiledLands5": "2024-05-10 20:20:02 +1000"
+      "DefiledLands5": "2024-05-10 20:20:02 +1000",
+      "DefiledLands6": "2024-05-14 00:59:31 +1000"
     },
     "done": false
   },
@@ -176,6 +183,12 @@
   "triumph:advancements/magick/leyoftheland/mundanewood": {
     "criteria": {
       "Mundane Sapling": "2024-05-11 23:05:40 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killelderfrostmaw": {
+    "criteria": {
+      "frostmaw": "2024-05-14 01:13:24 +1000"
     },
     "done": true
   },
@@ -406,7 +419,9 @@
   "triumph:advancements/bosskills/legendaryconqueror": {
     "criteria": {
       "myrmex_queen": "2024-05-11 20:46:30 +1000",
-      "pied_piper": "2024-05-11 14:31:11 +1000"
+      "frostmaw": "2024-05-14 01:13:24 +1000",
+      "pied_piper": "2024-05-11 14:31:11 +1000",
+      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000"
     },
     "done": false
   },
@@ -516,6 +531,12 @@
   "triumph:advancements/magick/warding/warding": {
     "criteria": {
       "location": "2024-05-10 15:48:31 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killferrouswroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000"
     },
     "done": true
   },
