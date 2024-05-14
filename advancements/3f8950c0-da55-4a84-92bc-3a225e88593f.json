@@ -515,6 +515,12 @@
     },
     "done": false
   },
+  "triumph:advancements/magick/talismancy/reforgerareall": {
+    "criteria": {
+      "RareMod5": "2024-05-14 17:20:55 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/setbonuses/column0/bronzearmor": {
     "criteria": {
       "Bronze Boots": "2024-05-12 12:19:33 +1000",
