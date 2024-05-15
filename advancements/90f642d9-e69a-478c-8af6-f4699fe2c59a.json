@@ -1,0 +1,104 @@
+{
+  "triumph:advancements/magick/leyoftheland/leyoftheland": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandlore": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/death": {
+    "criteria": {
+      "Death": "2024-05-15 22:41:46 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/theurgy/theurgy": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/sygaldry": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/make_alcohol": {
+    "criteria": {
+      "obtain cropRice": "2024-05-15 22:39:48 +1000"
+    },
+    "done": true
+  },
+  "toroquest:base": {
+    "criteria": {
+      "tick": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/golemancy/golemancy": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/root": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/incantation": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/recruit_help/recruit_help": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/warding/warding": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/herblore": {
+    "criteria": {
+      "Herb": "2024-05-15 22:37:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/scroll_newlife": {
+    "criteria": {
+      "impossible": "2024-05-15 22:37:54 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/talismancy": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/alchemy": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/evocation/evocation": {
+    "criteria": {
+      "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  }
+}

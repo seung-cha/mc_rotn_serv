@@ -98,6 +98,12 @@
     },
     "done": true
   },
+  "triumph:advancements/basedefense/well": {
+    "criteria": {
+      "Well": "2024-05-15 20:04:36 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/alchemy/alchemy": {
     "criteria": {
       "location": "2024-05-10 15:48:31 +1000"

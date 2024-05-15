@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "triumph:advancements/basedefense/well": {
+    "criteria": {
+      "Well": "2024-05-15 20:04:36 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/alchemy/alchemy": {
     "criteria": {
       "location": "2024-05-10 22:00:45 +1000"
@@ -171,10 +177,12 @@
   "triumph:advancements/setbonuses/column0/leatherarmor": {
     "criteria": {
       "Leather Helmet": "2024-05-11 20:09:52 +1000",
+      "Leather Chesplate": "2024-05-15 18:46:58 +1000",
       "Leather Boots": "2024-05-12 12:56:58 +1000",
+      "Leather Leggings": "2024-05-15 18:46:58 +1000",
       "Bronze Axe": "2024-05-12 22:22:46 +1000"
     },
-    "done": false
+    "done": true
   },
   "triumph:advancements/magick/sygaldry/runicworkbench": {
     "criteria": {
@@ -441,6 +449,7 @@
   },
   "triumph:advancements/setbonuses/fullearlyarmor": {
     "criteria": {
+      "Leather Armor": "2024-05-15 18:46:58 +1000",
       "Silver Armor": "2024-05-11 20:41:52 +1000",
       "Gold Armor": "2024-05-12 11:50:21 +1000",
       "Iron Armor": "2024-05-10 22:00:45 +1000",
@@ -464,9 +473,11 @@
     "criteria": {
       "siren": "2024-05-14 21:43:08 +1000",
       "myrmex_queen": "2024-05-11 20:46:30 +1000",
+      "gorgon": "2024-05-15 18:46:58 +1000",
       "frostmaw": "2024-05-14 01:13:24 +1000",
       "pied_piper": "2024-05-11 20:41:52 +1000",
-      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000"
+      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000",
+      "cyclops": "2024-05-15 18:46:58 +1000"
     },
     "done": false
   },
@@ -622,6 +633,12 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killcyclops": {
+    "criteria": {
+      "cyclops": "2024-05-15 18:46:58 +1000"
+    },
+    "done": true
+  },
   "toroquest:quest": {
     "criteria": {
       "quest": "2024-05-11 20:41:52 +1000"
@@ -676,6 +693,12 @@
   "aesthetics:recipes/tin_decor": {
     "criteria": {
       "has_tin": "2024-05-12 13:57:00 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killgorgon": {
+    "criteria": {
+      "gorgon": "2024-05-15 18:46:58 +1000"
     },
     "done": true
   },
@@ -777,6 +800,7 @@
   },
   "triumph:advancements/setbonuses/column0/column0": {
     "criteria": {
+      "leatherarmor": "2024-05-15 18:46:58 +1000",
       "ferrousgiant": "2024-05-10 22:00:45 +1000",
       "goldarmor": "2024-05-11 18:42:36 +1000",
       "chainarmor": "2024-05-12 20:45:44 +1000",
