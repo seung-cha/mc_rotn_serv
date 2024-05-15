@@ -471,9 +471,11 @@
     "criteria": {
       "siren": "2024-05-14 21:43:08 +1000",
       "myrmex_queen": "2024-05-11 20:46:30 +1000",
+      "gorgon": "2024-05-15 16:38:43 +1000",
       "frostmaw": "2024-05-14 01:13:24 +1000",
       "pied_piper": "2024-05-11 14:31:11 +1000",
-      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000"
+      "ferrous_wroughtnaut": "2024-05-14 00:00:30 +1000",
+      "cyclops": "2024-05-15 15:57:30 +1000"
     },
     "done": false
   },
@@ -634,6 +636,12 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killcyclops": {
+    "criteria": {
+      "cyclops": "2024-05-15 15:57:30 +1000"
+    },
+    "done": true
+  },
   "toroquest:quest": {
     "criteria": {
       "quest": "2024-05-10 22:02:23 +1000"
@@ -688,6 +696,12 @@
   "aesthetics:recipes/tin_decor": {
     "criteria": {
       "has_tin": "2024-05-12 13:57:00 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killgorgon": {
+    "criteria": {
+      "gorgon": "2024-05-15 16:38:43 +1000"
     },
     "done": true
   },
