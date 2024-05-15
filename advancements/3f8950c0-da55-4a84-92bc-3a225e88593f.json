@@ -447,6 +447,7 @@
   },
   "triumph:advancements/setbonuses/fullearlyarmor": {
     "criteria": {
+      "Leather Armor": "2024-05-15 11:20:36 +1000",
       "Silver Armor": "2024-05-10 20:28:02 +1000",
       "Gold Armor": "2024-05-12 11:45:55 +1000",
       "Iron Armor": "2024-05-11 20:41:47 +1000",
