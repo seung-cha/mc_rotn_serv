@@ -42,6 +42,12 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/hidden/hiddenkilledvalkyriequeen": {
+    "criteria": {
+      "impossible": "2024-05-15 23:26:21 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/spikes": {
     "criteria": {
       "Spikes": "2024-05-15 01:27:53 +1000"
@@ -262,6 +268,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/leyoftheland/arcanewood": {
+    "criteria": {
+      "Arcane Sapling": "2024-05-15 23:46:32 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/killpiedpiper": {
     "criteria": {
       "pied_piper": "2024-05-11 20:41:47 +1000"
@@ -304,6 +316,12 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column1/valkyrie": {
+    "criteria": {
+      "Valkyrie Leggings": "2024-05-15 23:27:31 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/setbonuses/column1/dedicatedworker/helmet": {
     "criteria": {
       "Jungle helmet": "2024-05-11 21:09:04 +1000"
@@ -319,6 +337,12 @@
   "triumph:advancements/progression/end/obtaineyeofender": {
     "criteria": {
       "obtain eye of ender": "2024-05-14 23:13:17 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/aether/killedvalkyriequeen": {
+    "criteria": {
+      "valkyrie_queen": "2024-05-15 23:26:21 +1000"
     },
     "done": true
   },
@@ -420,6 +444,12 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killedvalkyriequeen": {
+    "criteria": {
+      "valkyrie_queen": "2024-05-15 23:26:21 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column0/chainarmor": {
     "criteria": {
       "Chainmail Helmet": "2024-05-12 20:45:44 +1000",
@@ -466,6 +496,12 @@
   "triumph:advancements/magick/talismancy/reforgerare": {
     "criteria": {
       "RareMod23": "2024-05-11 22:30:31 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/aether/enteraether": {
+    "criteria": {
+      "entered_aether": "2024-05-15 22:48:18 +1000"
     },
     "done": true
   },
