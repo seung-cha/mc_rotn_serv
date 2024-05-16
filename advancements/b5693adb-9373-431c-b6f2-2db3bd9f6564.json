@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/weapons/draconicsword": {
+    "criteria": {
+      "Draconic Sword": "2024-05-17 01:00:09 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/progression/food_book": {
     "criteria": {
       "Epicurean\u0027s Tattered Dietary Guide": "2024-05-10 21:52:08 +1000"
@@ -583,6 +589,18 @@
       "Vis Speck": "2024-05-11 20:41:47 +1000"
     },
     "done": true
+  },
+  "triumph:advancements/magick/incantation/enchantingtable": {
+    "criteria": {
+      "Enchanting Table": "2024-05-17 00:50:32 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/weapons/weapons": {
+    "criteria": {
+      "draconicsword": "2024-05-17 01:00:09 +1000"
+    },
+    "done": false
   },
   "triumph:advancements/ores/coal": {
     "criteria": {

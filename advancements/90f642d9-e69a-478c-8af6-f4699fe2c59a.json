@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column0/gladiator": {
+    "criteria": {
+      "Bronze Leggings": "2024-05-16 22:46:05 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/magick/golemancy/golemancy": {
     "criteria": {
       "location": "2024-05-15 22:36:11 +1000"
@@ -592,6 +598,18 @@
       "Axe": "2024-05-15 22:42:12 +1000"
     },
     "done": true
+  },
+  "triumph:advancements/setbonuses/column0/powerfulpunches": {
+    "criteria": {
+      "Bronze Leggings": "2024-05-16 22:46:05 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/setbonuses/column0/bronzearmor": {
+    "criteria": {
+      "Bronze Leggings": "2024-05-16 22:46:05 +1000"
+    },
+    "done": false
   },
   "triumph:advancements/setbonuses/column1/dedicatedworker/chestplate": {
     "criteria": {
