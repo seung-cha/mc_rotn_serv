@@ -36,6 +36,12 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/aether/paraglider": {
+    "criteria": {
+      "Around the World in 80 Days": "2024-05-16 20:25:20 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/flamer_block": {
     "criteria": {
       "Flamer": "2024-05-14 23:51:55 +1000"
@@ -144,6 +150,12 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/ambrosium": {
+    "criteria": {
+      "Ambrosium": "2024-05-16 20:25:20 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/deaths/creeper": {
     "criteria": {
       "Creeper": "2024-05-11 20:41:52 +1000"
@@ -199,6 +211,18 @@
   "triumph:advancements/magick/theurgy/theurgy": {
     "criteria": {
       "location": "2024-05-10 22:00:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column2/column2": {
+    "criteria": {
+      "rubyarmor": "2024-05-16 20:25:20 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/basedefense/recruit_help/foliaath": {
+    "criteria": {
+      "Did it smile?": "2024-05-16 22:02:05 +1000"
     },
     "done": true
   },
@@ -790,6 +814,15 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column2/rubyarmor": {
+    "criteria": {
+      "Ruby Chestplate": "2024-05-16 20:25:20 +1000",
+      "Ruby Leggings": "2024-05-16 20:25:20 +1000",
+      "Ruby Boots": "2024-05-16 20:25:20 +1000",
+      "Ruby Helmet": "2024-05-16 20:25:20 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column0/ferrousgiant/leggings": {
     "criteria": {
       "Iron Leggings": "2024-05-10 22:00:45 +1000"
@@ -845,6 +878,12 @@
       "fortuneandglory": "2024-05-12 21:18:22 +1000"
     },
     "done": false
+  },
+  "triumph:advancements/ores/electrum": {
+    "criteria": {
+      "Electrum": "2024-05-16 20:35:40 +1000"
+    },
+    "done": true
   },
   "triumph:advancements/basedefense/recruit_help/recruit_help": {
     "criteria": {

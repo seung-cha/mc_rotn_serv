@@ -29,9 +29,21 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/aether/paraglider": {
+    "criteria": {
+      "Around the World in 80 Days": "2024-05-16 22:42:47 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/flamer_block": {
     "criteria": {
       "Flamer": "2024-05-15 22:42:12 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/hidden/hiddenkilledvalkyriequeen": {
+    "criteria": {
+      "impossible": "2024-05-16 22:42:47 +1000"
     },
     "done": true
   },
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/ambrosium": {
+    "criteria": {
+      "Ambrosium": "2024-05-16 22:42:47 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/deaths/creeper": {
     "criteria": {
       "Creeper": "2024-05-15 22:42:12 +1000"
@@ -174,6 +192,18 @@
   "triumph:advancements/magick/theurgy/theurgy": {
     "criteria": {
       "location": "2024-05-15 22:36:11 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column2/column2": {
+    "criteria": {
+      "rubyarmor": "2024-05-16 22:42:47 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/basedefense/recruit_help/foliaath": {
+    "criteria": {
+      "Did it smile?": "2024-05-16 22:42:47 +1000"
     },
     "done": true
   },
@@ -243,6 +273,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/leyoftheland/arcanewood": {
+    "criteria": {
+      "Arcane Sapling": "2024-05-16 22:42:47 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/killpiedpiper": {
     "criteria": {
       "pied_piper": "2024-05-15 22:42:12 +1000"
@@ -303,15 +339,21 @@
     },
     "done": true
   },
-  "triumph:advancements/basedefense/recruit_help/golem": {
+  "triumph:advancements/progression/aether/killedvalkyriequeen": {
     "criteria": {
-      "Golem Malkuth": "2024-05-15 22:42:12 +1000"
+      "valkyrie_queen": "2024-05-16 22:42:47 +1000"
     },
     "done": true
   },
   "triumph:advancements/magick/leyoftheland/herblore": {
     "criteria": {
       "Herb": "2024-05-15 22:37:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/recruit_help/golem": {
+    "criteria": {
+      "Golem Malkuth": "2024-05-15 22:42:12 +1000"
     },
     "done": true
   },
@@ -369,9 +411,9 @@
     },
     "done": true
   },
-  "triumph:advancements/progression/guidebook/obtain_logs": {
+  "toroquest:base": {
     "criteria": {
-      "obtain logs": "2024-05-15 22:42:12 +1000"
+      "tick": "2024-05-15 22:36:11 +1000"
     },
     "done": true
   },
@@ -383,15 +425,21 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/guidebook/obtain_logs": {
+    "criteria": {
+      "obtain logs": "2024-05-15 22:42:12 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/progression/killedharvester": {
     "criteria": {
       "Harvester": "2024-05-15 22:42:12 +1000"
     },
     "done": true
   },
-  "toroquest:base": {
+  "triumph:advancements/bosskills/killedvalkyriequeen": {
     "criteria": {
-      "tick": "2024-05-15 22:36:11 +1000"
+      "valkyrie_queen": "2024-05-16 22:42:47 +1000"
     },
     "done": true
   },
@@ -441,6 +489,12 @@
   "triumph:advancements/magick/talismancy/reforgerare": {
     "criteria": {
       "RareMod23": "2024-05-15 22:42:12 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/aether/enteraether": {
+    "criteria": {
+      "entered_aether": "2024-05-16 22:42:47 +1000"
     },
     "done": true
   },
@@ -701,6 +755,15 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column2/rubyarmor": {
+    "criteria": {
+      "Ruby Chestplate": "2024-05-16 22:42:47 +1000",
+      "Ruby Leggings": "2024-05-16 22:42:47 +1000",
+      "Ruby Boots": "2024-05-16 22:42:47 +1000",
+      "Ruby Helmet": "2024-05-16 22:42:47 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column0/ferrousgiant/leggings": {
     "criteria": {
       "Iron Leggings": "2024-05-15 22:42:12 +1000"
@@ -757,21 +820,27 @@
     },
     "done": false
   },
+  "triumph:advancements/ores/electrum": {
+    "criteria": {
+      "Electrum": "2024-05-16 22:42:47 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/recruit_help/recruit_help": {
     "criteria": {
       "location": "2024-05-15 22:36:11 +1000"
     },
     "done": true
   },
-  "sereneseasons:recipes/redstone/season_sensor": {
-    "criteria": {
-      "has_quartz": "2024-05-15 22:42:12 +1000"
-    },
-    "done": true
-  },
   "triumph:advancements/magick/incantation/scroll_newlife": {
     "criteria": {
       "impossible": "2024-05-15 22:37:54 +1000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-05-15 22:42:12 +1000"
     },
     "done": true
   },

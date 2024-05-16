@@ -218,6 +218,18 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column2/column2": {
+    "criteria": {
+      "rubyarmor": "2024-05-16 19:52:35 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/basedefense/recruit_help/foliaath": {
+    "criteria": {
+      "Did it smile?": "2024-05-16 22:02:05 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/talismancy/mundanebauble": {
     "criteria": {
       "RFStation": "2024-05-12 13:47:40 +1000"
@@ -401,6 +413,12 @@
   "triumph:advancements/progression/guidebook/improvingshelter": {
     "criteria": {
       "stone brick": "2024-05-11 23:32:45 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/setbonuses/column2/rainbowarmor": {
+    "criteria": {
+      "Ruby Chestplate": "2024-05-16 19:45:48 +1000"
     },
     "done": false
   },
@@ -810,6 +828,15 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column2/rubyarmor": {
+    "criteria": {
+      "Ruby Chestplate": "2024-05-16 19:45:48 +1000",
+      "Ruby Leggings": "2024-05-16 19:45:50 +1000",
+      "Ruby Boots": "2024-05-16 19:48:39 +1000",
+      "Ruby Helmet": "2024-05-16 19:52:35 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column0/ferrousgiant/leggings": {
     "criteria": {
       "Iron Leggings": "2024-05-11 20:41:47 +1000"
@@ -865,6 +892,12 @@
       "fortuneandglory": "2024-05-12 23:54:37 +1000"
     },
     "done": false
+  },
+  "triumph:advancements/ores/electrum": {
+    "criteria": {
+      "Electrum": "2024-05-16 20:35:40 +1000"
+    },
+    "done": true
   },
   "triumph:advancements/basedefense/recruit_help/recruit_help": {
     "criteria": {
