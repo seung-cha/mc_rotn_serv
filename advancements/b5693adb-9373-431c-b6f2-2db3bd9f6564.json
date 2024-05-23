@@ -727,6 +727,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/sygaldry/arcanerune": {
+    "criteria": {
+      "Arcane Rune": "2024-05-22 22:26:20 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/bronze": {
     "criteria": {
       "Bronze": "2024-05-11 20:41:47 +1000"
@@ -933,6 +939,12 @@
   "triumph:advancements/ores/peridot": {
     "criteria": {
       "Alexandrite": "2024-05-11 20:41:47 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/naturecompass": {
+    "criteria": {
+      "Nature Compass": "2024-05-22 22:27:23 +1000"
     },
     "done": true
   },

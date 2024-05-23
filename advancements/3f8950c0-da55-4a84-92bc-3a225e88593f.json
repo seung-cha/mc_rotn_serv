@@ -284,6 +284,12 @@
     },
     "done": true
   },
+  "triumph:advancements/storage/stash": {
+    "criteria": {
+      "Craft Stash": "2024-05-23 18:25:49 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column0/fortuneandglory/boots": {
     "criteria": {
       "Leather boots": "2024-05-11 20:41:47 +1000"
@@ -346,7 +352,9 @@
   },
   "triumph:advancements/setbonuses/column1/valkyrie": {
     "criteria": {
-      "Valkyrie Chestplate": "2024-05-15 23:27:32 +1000"
+      "Valkyrie Chestplate": "2024-05-15 23:27:32 +1000",
+      "Valkyrie Leggings": "2024-05-22 21:46:59 +1000",
+      "Valkyrie Helmet": "2024-05-22 21:47:37 +1000"
     },
     "done": false
   },
@@ -738,6 +746,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/sygaldry/arcanerune": {
+    "criteria": {
+      "Arcane Rune": "2024-05-22 22:26:20 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/bronze": {
     "criteria": {
       "Bronze": "2024-05-11 15:45:37 +1000"
@@ -944,6 +958,12 @@
   "triumph:advancements/ores/peridot": {
     "criteria": {
       "Alexandrite": "2024-05-11 15:14:35 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/naturecompass": {
+    "criteria": {
+      "Nature Compass": "2024-05-22 22:27:23 +1000"
     },
     "done": true
   },

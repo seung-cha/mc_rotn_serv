@@ -17,9 +17,46 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/quartz": {
+    "criteria": {
+      "Quartz": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/gladiator": {
+    "criteria": {
+      "Bronze Helmet": "2024-05-23 20:44:28 +1000",
+      "Bronze Leggings": "2024-05-23 20:44:26 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/magick/golemancy/golemancy": {
     "criteria": {
       "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/aether/paraglider": {
+    "criteria": {
+      "Around the World in 80 Days": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/hidden/hiddenkilledvalkyriequeen": {
+    "criteria": {
+      "impossible": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/flamer_block": {
+    "criteria": {
+      "Flamer": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/spikes": {
+    "criteria": {
+      "Spikes": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -32,6 +69,12 @@
   "triumph:advancements/basedefense/nails": {
     "criteria": {
       "Caltrops": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/reforgingstation": {
+    "criteria": {
+      "reforgeStationCraft": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -56,6 +99,12 @@
   "triumph:advancements/ores/redstone": {
     "criteria": {
       "Redstone": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/well": {
+    "criteria": {
+      "Well": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -95,15 +144,33 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/ambrosium": {
+    "criteria": {
+      "Ambrosium": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/deaths/creeper": {
     "criteria": {
       "Creeper": "2024-05-12 12:28:52 +1000"
     },
     "done": true
   },
+  "triumph:advancements/deaths/fire": {
+    "criteria": {
+      "Fire": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/basedefense/barbed_wire": {
     "criteria": {
       "Barbed Wire": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/mundanerune": {
+    "criteria": {
+      "Mundane Rune": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -119,6 +186,16 @@
     },
     "done": false
   },
+  "triumph:advancements/setbonuses/column0/leatherarmor": {
+    "criteria": {
+      "Leather Helmet": "2024-05-23 19:46:45 +1000",
+      "Leather Chesplate": "2024-05-23 19:46:45 +1000",
+      "Leather Leggings": "2024-05-23 19:46:45 +1000",
+      "Leather Boots": "2024-05-23 19:46:45 +1000",
+      "Bronze Axe": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/sygaldry/runicworkbench": {
     "criteria": {
       "Runic Workbench": "2024-05-12 12:28:52 +1000"
@@ -131,9 +208,33 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column2/column2": {
+    "criteria": {
+      "rubyarmor": "2024-05-23 19:46:45 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/basedefense/recruit_help/foliaath": {
+    "criteria": {
+      "Did it smile?": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/mundanebauble": {
+    "criteria": {
+      "RFStation": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/leyoftheland/mundanewood": {
     "criteria": {
       "Mundane Sapling": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killelderfrostmaw": {
+    "criteria": {
+      "frostmaw": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -155,15 +256,45 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column0/fortuneandglory/leggings": {
+    "criteria": {
+      "Leather leggings": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/pot": {
+    "criteria": {
+      "Craft pot": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/storage/backpack": {
     "criteria": {
       "Craft Backpack": "2024-05-12 12:28:52 +1000"
     },
     "done": true
   },
+  "triumph:advancements/storage/stash": {
+    "criteria": {
+      "Craft Stash": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column0/fortuneandglory/boots": {
     "criteria": {
       "Leather boots": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/arcanewood": {
+    "criteria": {
+      "Arcane Sapling": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandpowderpouch": {
+    "criteria": {
+      "pouchCraft": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -203,9 +334,33 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/brass": {
+    "criteria": {
+      "Brass": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/setbonuses/column1/dedicatedworker/helmet": {
     "criteria": {
       "Jungle helmet": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/enderchest": {
+    "criteria": {
+      "Craft Ender Chest": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/end/obtaineyeofender": {
+    "criteria": {
+      "obtain eye of ender": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/aether/killedvalkyriequeen": {
+    "criteria": {
+      "valkyrie_queen": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -233,6 +388,12 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killsiren": {
+    "criteria": {
+      "siren": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/wandlore/wandpowder": {
     "criteria": {
       "powderGet": "2024-05-12 12:28:52 +1000"
@@ -248,6 +409,12 @@
   "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
     "criteria": {
       "has_glass": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/weapons/draconicsword": {
+    "criteria": {
+      "Draconic Sword": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -295,6 +462,21 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killedvalkyriequeen": {
+    "criteria": {
+      "valkyrie_queen": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/chainarmor": {
+    "criteria": {
+      "Chainmail Helmet": "2024-05-23 19:46:45 +1000",
+      "Chainmail Boots": "2024-05-23 19:46:45 +1000",
+      "Chainmail Chestplate": "2024-05-23 19:46:45 +1000",
+      "Chainmail Leggings": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/storage/cabinet": {
     "criteria": {
       "Craft Cabinet": "2024-05-12 12:28:52 +1000"
@@ -315,9 +497,17 @@
   },
   "triumph:advancements/setbonuses/fullearlyarmor": {
     "criteria": {
+      "Leather Armor": "2024-05-23 19:46:45 +1000",
       "Silver Armor": "2024-05-12 12:28:52 +1000",
       "Gold Armor": "2024-05-12 12:28:52 +1000",
-      "Iron Armor": "2024-05-12 12:28:52 +1000"
+      "Iron Armor": "2024-05-12 12:28:52 +1000",
+      "Chain Armor": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/basedefense/fan": {
+    "criteria": {
+      "Fan": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -327,10 +517,21 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/aether/enteraether": {
+    "criteria": {
+      "entered_aether": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/legendaryconqueror": {
     "criteria": {
+      "siren": "2024-05-23 19:46:45 +1000",
       "myrmex_queen": "2024-05-12 12:28:52 +1000",
-      "pied_piper": "2024-05-12 12:28:52 +1000"
+      "gorgon": "2024-05-23 19:46:45 +1000",
+      "frostmaw": "2024-05-23 19:46:45 +1000",
+      "pied_piper": "2024-05-12 12:28:52 +1000",
+      "ferrous_wroughtnaut": "2024-05-23 19:46:45 +1000",
+      "cyclops": "2024-05-23 19:46:45 +1000"
     },
     "done": false
   },
@@ -376,6 +577,18 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/incantation/enchantingtable": {
+    "criteria": {
+      "Enchanting Table": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/weapons/weapons": {
+    "criteria": {
+      "draconicsword": "2024-05-23 19:46:45 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/magick/talismancy/curse": {
     "criteria": {
       "Curse10": "2024-05-12 12:28:52 +1000",
@@ -417,6 +630,20 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column0/powerfulpunches": {
+    "criteria": {
+      "Bronze Helmet": "2024-05-23 20:44:28 +1000",
+      "Bronze Leggings": "2024-05-23 20:44:26 +1000"
+    },
+    "done": false
+  },
+  "triumph:advancements/setbonuses/column0/bronzearmor": {
+    "criteria": {
+      "Bronze Helmet": "2024-05-23 20:44:28 +1000",
+      "Bronze Leggings": "2024-05-23 20:44:26 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/setbonuses/column1/dedicatedworker/chestplate": {
     "criteria": {
       "Jungle chestplate": "2024-05-12 12:28:52 +1000"
@@ -429,9 +656,21 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killferrouswroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/silver": {
     "criteria": {
       "Silver ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/bagofhoarding": {
+    "criteria": {
+      "Craft Bag Of Hoarding": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -453,9 +692,21 @@
     },
     "done": true
   },
+  "triumph:advancements/bosskills/killcyclops": {
+    "criteria": {
+      "cyclops": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "toroquest:quest": {
     "criteria": {
       "quest": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/arcanerune": {
+    "criteria": {
+      "Arcane Rune": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -473,9 +724,12 @@
   },
   "triumph:advancements/setbonuses/column0/fortuneandglory/fortuneandglory": {
     "criteria": {
-      "Any Leather Boots": "2024-05-12 12:28:52 +1000"
+      "Backpack": "2024-05-23 19:46:45 +1000",
+      "Any Leather Boots": "2024-05-12 12:28:52 +1000",
+      "Archaeologist Hat": "2024-05-23 19:46:45 +1000",
+      "Any Leather Leggings": "2024-05-23 19:46:45 +1000"
     },
-    "done": false
+    "done": true
   },
   "triumph:advancements/setbonuses/column0/ferrousgiant/helmet": {
     "criteria": {
@@ -489,9 +743,33 @@
     },
     "done": true
   },
+  "triumph:advancements/ores/cincinnasite": {
+    "criteria": {
+      "Cincinnasite": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/copper": {
     "criteria": {
       "Copper ore": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "aesthetics:recipes/tin_decor": {
+    "criteria": {
+      "has_tin": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killgorgon": {
+    "criteria": {
+      "gorgon": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/nether/gemingots": {
+    "criteria": {
+      "Gem Ingot": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -537,6 +815,15 @@
   "triumph:advancements/ores/crudesteel": {
     "criteria": {
       "Crude Steel": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column2/rubyarmor": {
+    "criteria": {
+      "Ruby Chestplate": "2024-05-23 19:46:45 +1000",
+      "Ruby Leggings": "2024-05-23 19:46:45 +1000",
+      "Ruby Boots": "2024-05-23 19:46:45 +1000",
+      "Ruby Helmet": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
@@ -587,11 +874,20 @@
   },
   "triumph:advancements/setbonuses/column0/column0": {
     "criteria": {
+      "leatherarmor": "2024-05-23 19:46:45 +1000",
       "goldarmor": "2024-05-12 12:28:52 +1000",
       "ferrousgiant": "2024-05-12 12:28:52 +1000",
-      "silverarmor": "2024-05-12 12:28:52 +1000"
+      "chainarmor": "2024-05-23 19:46:45 +1000",
+      "silverarmor": "2024-05-12 12:28:52 +1000",
+      "fortuneandglory": "2024-05-23 19:46:45 +1000"
     },
     "done": false
+  },
+  "triumph:advancements/ores/electrum": {
+    "criteria": {
+      "Electrum": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
   },
   "triumph:advancements/basedefense/recruit_help/recruit_help": {
     "criteria": {
@@ -605,6 +901,12 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-05-23 19:46:45 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/killmyrmexqueen": {
     "criteria": {
       "myrmex_queen": "2024-05-12 12:28:52 +1000"
@@ -614,6 +916,12 @@
   "triumph:advancements/ores/peridot": {
     "criteria": {
       "Alexandrite": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/naturecompass": {
+    "criteria": {
+      "Nature Compass": "2024-05-23 19:46:45 +1000"
     },
     "done": true
   },
