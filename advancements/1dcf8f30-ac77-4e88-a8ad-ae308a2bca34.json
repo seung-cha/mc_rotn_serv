@@ -26,7 +26,8 @@
   "triumph:advancements/setbonuses/column0/gladiator": {
     "criteria": {
       "Bronze Boots": "2024-05-12 13:53:54 +1000",
-      "Bronze Sword": "2024-05-12 21:58:46 +1000"
+      "Bronze Sword": "2024-05-12 21:58:46 +1000",
+      "Bronze Leggings": "2024-05-26 17:02:36 +1000"
     },
     "done": false
   },
@@ -126,6 +127,16 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/column1/steelarmor": {
+    "criteria": {
+      "Steel Chestplate": "2024-05-26 18:59:34 +1000",
+      "Steel Halberd": "2024-05-26 18:59:34 +1000",
+      "Steel Leggings": "2024-05-26 18:59:34 +1000",
+      "Steel Boots": "2024-05-26 18:59:34 +1000",
+      "Steel Helmet": "2024-05-26 18:59:34 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/ruby": {
     "criteria": {
       "Ruby": "2024-05-11 20:41:52 +1000"
@@ -147,6 +158,12 @@
   "triumph:advancements/magick/sygaldry/sygaldry": {
     "criteria": {
       "location": "2024-05-10 22:00:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killedslider": {
+    "criteria": {
+      "Kill Slider": "2024-05-26 17:30:40 +1000"
     },
     "done": true
   },
@@ -182,9 +199,16 @@
   },
   "triumph:advancements/setbonuses/column1/column1": {
     "criteria": {
+      "steelarmor": "2024-05-26 18:59:34 +1000",
       "dedicatedWorker": "2024-05-11 21:09:11 +1000"
     },
     "done": false
+  },
+  "triumph:advancements/magick/evocation/spiritinfuser": {
+    "criteria": {
+      "spiritinfuserCraft": "2024-05-26 16:48:41 +1000"
+    },
+    "done": true
   },
   "triumph:advancements/magick/leyoftheland/defiled": {
     "criteria": {
@@ -216,6 +240,7 @@
   },
   "triumph:advancements/setbonuses/column2/column2": {
     "criteria": {
+      "peridotarmor": "2024-05-25 18:59:52 +1000",
       "rubyarmor": "2024-05-16 20:25:20 +1000"
     },
     "done": false
@@ -235,6 +260,12 @@
   "triumph:advancements/magick/leyoftheland/mundanewood": {
     "criteria": {
       "Mundane Sapling": "2024-05-11 23:05:40 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/hidden/hiddenkilledslider": {
+    "criteria": {
+      "impossible": "2024-05-26 17:30:40 +1000"
     },
     "done": true
   },
@@ -283,6 +314,12 @@
   "triumph:advancements/storage/stash": {
     "criteria": {
       "Craft Stash": "2024-05-23 19:19:19 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/aether/killedslider": {
+    "criteria": {
+      "Kill Slider": "2024-05-26 17:30:40 +1000"
     },
     "done": true
   },
@@ -337,6 +374,12 @@
   "triumph:advancements/progression/netherwarning": {
     "criteria": {
       "entered": "2024-05-12 12:43:35 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/barreldungeontactics": {
+    "criteria": {
+      "Craft dungeontactics_barrel": "2024-05-26 20:25:24 +1000"
     },
     "done": true
   },
@@ -418,6 +461,12 @@
       "powderGet": "2024-05-11 20:41:52 +1000"
     },
     "done": true
+  },
+  "triumph:advancements/setbonuses/column2/rainbowarmor": {
+    "criteria": {
+      "Peridot Leggings": "2024-05-26 17:15:03 +1000"
+    },
+    "done": false
   },
   "triumph:advancements/magick/wandlore/wandlore": {
     "criteria": {
@@ -519,6 +568,7 @@
       "Leather Armor": "2024-05-15 18:46:58 +1000",
       "Silver Armor": "2024-05-11 20:41:52 +1000",
       "Gold Armor": "2024-05-12 11:50:21 +1000",
+      "Bronze Armor": "2024-05-29 01:04:33 +1000",
       "Iron Armor": "2024-05-10 22:00:45 +1000",
       "Chain Armor": "2024-05-12 21:03:16 +1000"
     },
@@ -604,7 +654,8 @@
   },
   "triumph:advancements/setbonuses/weapons/weapons": {
     "criteria": {
-      "draconicsword": "2024-05-17 01:00:09 +1000"
+      "draconicsword": "2024-05-17 01:00:09 +1000",
+      "gladiolus": "2024-05-26 16:48:41 +1000"
     },
     "done": false
   },
@@ -651,7 +702,8 @@
   },
   "triumph:advancements/setbonuses/column0/powerfulpunches": {
     "criteria": {
-      "Bronze Boots": "2024-05-12 13:53:54 +1000"
+      "Bronze Boots": "2024-05-12 13:53:54 +1000",
+      "Bronze Leggings": "2024-05-26 17:02:36 +1000"
     },
     "done": false
   },
@@ -665,9 +717,18 @@
   },
   "triumph:advancements/setbonuses/column0/bronzearmor": {
     "criteria": {
-      "Bronze Boots": "2024-05-12 13:53:54 +1000"
+      "Bronze Boots": "2024-05-12 13:53:54 +1000",
+      "Bronze Chesplate": "2024-05-26 19:32:04 +1000",
+      "Bronze Helmet": "2024-05-26 19:32:04 +1000",
+      "Bronze Leggings": "2024-05-26 17:02:36 +1000"
     },
-    "done": false
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/arcanemortar": {
+    "criteria": {
+      "Arcane Mortar": "2024-05-25 15:02:13 +1000"
+    },
+    "done": true
   },
   "triumph:advancements/setbonuses/column1/dedicatedworker/chestplate": {
     "criteria": {
@@ -775,6 +836,12 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/weapons/gladiolus": {
+    "criteria": {
+      "Gladiolus": "2024-05-26 16:48:41 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/copper": {
     "criteria": {
       "Copper ore": "2024-05-11 13:44:38 +1000"
@@ -796,6 +863,15 @@
   "triumph:advancements/progression/nether/gemingots": {
     "criteria": {
       "Gem Ingot": "2024-05-15 00:36:40 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column2/peridotarmor": {
+    "criteria": {
+      "Peridot Helmet": "2024-05-25 18:59:52 +1000",
+      "Peridot Leggings": "2024-05-25 18:59:52 +1000",
+      "Peridot Chestplate": "2024-05-25 18:59:52 +1000",
+      "Peridot Boots": "2024-05-25 18:59:52 +1000"
     },
     "done": true
   },
@@ -903,6 +979,7 @@
       "leatherarmor": "2024-05-15 18:46:58 +1000",
       "ferrousgiant": "2024-05-10 22:00:45 +1000",
       "goldarmor": "2024-05-11 18:42:36 +1000",
+      "bronzearmor": "2024-05-26 19:32:04 +1000",
       "chainarmor": "2024-05-12 20:45:44 +1000",
       "silverarmor": "2024-05-11 20:41:52 +1000",
       "fortuneandglory": "2024-05-12 21:18:22 +1000"
