@@ -26,6 +26,7 @@
   "triumph:advancements/setbonuses/column0/gladiator": {
     "criteria": {
       "Bronze Sword": "2024-05-23 23:31:15 +1000",
+      "Bronze Leggings": "2024-05-30 21:44:24 +1000",
       "Bronze Chestplate": "2024-05-26 19:09:55 +1000"
     },
     "done": false
@@ -455,6 +456,12 @@
     },
     "done": false
   },
+  "triumph:advancements/setbonuses/column2/rainbowarmor": {
+    "criteria": {
+      "Ruby Chestplate": "2024-05-30 21:28:50 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/magick/wandlore/wandlore": {
     "criteria": {
       "location": "2024-05-13 23:35:34 +1000"
@@ -689,7 +696,8 @@
   },
   "triumph:advancements/setbonuses/column0/powerfulpunches": {
     "criteria": {
-      "Bronze Chesplate": "2024-05-26 19:09:55 +1000"
+      "Bronze Chesplate": "2024-05-26 19:09:55 +1000",
+      "Bronze Leggings": "2024-05-30 21:44:24 +1000"
     },
     "done": false
   },

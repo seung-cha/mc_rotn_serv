@@ -1,1 +1,1 @@
-FullIronArmorBonus
+FullRubyArmorBonus
