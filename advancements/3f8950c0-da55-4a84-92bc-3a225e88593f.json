@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "triumph:advancements/setbonuses/weaponschallenge/defiledlands": {
+    "criteria": {
+      "Umbra Blaster": "2024-06-04 20:15:18 +1000"
+    },
+    "done": false
+  },
   "triumph:advancements/ores/lignite": {
     "criteria": {
       "Lignite": "2024-05-11 16:04:32 +1000"
@@ -356,6 +362,12 @@
     },
     "done": true
   },
+  "triumph:advancements/basedefense/recruit_help/guards": {
+    "criteria": {
+      "Guards! Help!": "2024-06-02 18:25:40 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/leyoftheland/magicforest": {
     "criteria": {
       "Mystic Grove": "2024-05-11 20:41:52 +1000"
@@ -445,6 +457,12 @@
   "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
     "criteria": {
       "Iron Chestplate": "2024-05-11 20:41:47 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/ebook": {
+    "criteria": {
+      "Enchanted Book": "2024-06-04 20:15:20 +1000"
     },
     "done": true
   },
@@ -688,6 +706,12 @@
   "triumph:advancements/progression/nether/steel": {
     "criteria": {
       "Crude Steel": "2024-05-11 13:52:24 +1000"
+    },
+    "done": true
+  },
+  "toroquest:friendly": {
+    "criteria": {
+      "friendly": "2024-06-02 10:06:22 +1000"
     },
     "done": true
   },
