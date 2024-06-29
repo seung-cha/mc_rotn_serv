@@ -160,6 +160,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/theurgy/arcaneintent": {
+    "criteria": {
+      "arcaneFocusAwaken": "2024-06-29 23:35:52 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/ambrosium": {
     "criteria": {
       "Ambrosium": "2024-05-23 19:46:45 +1000"
@@ -346,6 +352,12 @@
     },
     "done": true
   },
+  "triumph:advancements/basedefense/recruit_help/guards": {
+    "criteria": {
+      "Guards! Help!": "2024-06-29 22:36:55 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/leyoftheland/magicforest": {
     "criteria": {
       "Mystic Grove": "2024-05-12 12:28:52 +1000"
@@ -367,6 +379,12 @@
   "triumph:advancements/progression/netherwarning": {
     "criteria": {
       "entered": "2024-05-12 12:43:35 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/barreldungeontactics": {
+    "criteria": {
+      "Craft dungeontactics_barrel": "2024-06-29 22:36:55 +1000"
     },
     "done": true
   },
@@ -427,6 +445,12 @@
   "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
     "criteria": {
       "Iron Chestplate": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/ebook": {
+    "criteria": {
+      "Enchanted Book": "2024-06-29 22:36:55 +1000"
     },
     "done": true
   },
@@ -542,6 +566,7 @@
       "Leather Armor": "2024-05-23 19:46:45 +1000",
       "Silver Armor": "2024-05-12 12:28:52 +1000",
       "Gold Armor": "2024-05-12 12:28:52 +1000",
+      "Bronze Armor": "2024-06-29 22:36:55 +1000",
       "Iron Armor": "2024-05-12 12:28:52 +1000",
       "Chain Armor": "2024-05-23 19:46:45 +1000"
     },
@@ -592,6 +617,18 @@
   "triumph:advancements/magick/evocation/evocation": {
     "criteria": {
       "location": "2024-05-12 12:25:41 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/theurgy/ritualtable": {
+    "criteria": {
+      "ritualTableCraft": "2024-06-29 23:29:10 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/visshard": {
+    "criteria": {
+      "Vis Shard": "2024-06-29 22:36:55 +1000"
     },
     "done": true
   },
@@ -660,6 +697,12 @@
     },
     "done": true
   },
+  "toroquest:friendly": {
+    "criteria": {
+      "friendly": "2024-06-29 22:36:55 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/progression/entervillage": {
     "criteria": {
       "village": "2024-05-12 12:28:52 +1000"
@@ -682,10 +725,12 @@
   },
   "triumph:advancements/setbonuses/column0/bronzearmor": {
     "criteria": {
+      "Bronze Chesplate": "2024-06-29 22:36:55 +1000",
+      "Bronze Boots": "2024-06-29 22:36:55 +1000",
       "Bronze Helmet": "2024-05-23 20:44:28 +1000",
       "Bronze Leggings": "2024-05-23 20:44:26 +1000"
     },
-    "done": false
+    "done": true
   },
   "triumph:advancements/magick/sygaldry/arcanemortar": {
     "criteria": {
@@ -738,6 +783,12 @@
   "triumph:advancements/setbonuses/column1/dedicatedworker/leggings": {
     "criteria": {
       "Jungle leggings": "2024-05-12 12:28:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/transitionwarning": {
+    "criteria": {
+      "break_barrier 2": "2024-06-29 23:36:19 +1000"
     },
     "done": true
   },
@@ -903,6 +954,12 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/beneath/enterbeneath": {
+    "criteria": {
+      "entered_beneath": "2024-06-29 23:37:00 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/progression/earlyarmor": {
     "criteria": {
       "Early Armor": "2024-05-12 12:28:52 +1000"
@@ -930,6 +987,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/warding/arcanebar_destroy": {
+    "criteria": {
+      "arcaneBarrierFocus": "2024-06-29 23:36:19 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/incantation/incantation": {
     "criteria": {
       "location": "2024-05-12 12:25:41 +1000"
@@ -941,6 +1004,7 @@
       "leatherarmor": "2024-05-23 19:46:45 +1000",
       "goldarmor": "2024-05-12 12:28:52 +1000",
       "ferrousgiant": "2024-05-12 12:28:52 +1000",
+      "bronzearmor": "2024-06-29 22:36:55 +1000",
       "chainarmor": "2024-05-23 19:46:45 +1000",
       "silverarmor": "2024-05-12 12:28:52 +1000",
       "fortuneandglory": "2024-05-23 19:46:45 +1000"
