@@ -166,6 +166,12 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/golemancy/golemspell": {
+    "criteria": {
+      "goleSpellCraft": "2024-06-30 20:14:18 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/ambrosium": {
     "criteria": {
       "Ambrosium": "2024-05-23 19:46:45 +1000"
@@ -211,6 +217,7 @@
   },
   "triumph:advancements/magick/leyoftheland/defiled": {
     "criteria": {
+      "DefiledLands5": "2024-07-01 20:06:26 +1000",
       "DefiledLands6": "2024-05-12 13:16:23 +1000"
     },
     "done": false
@@ -379,6 +386,12 @@
   "triumph:advancements/progression/netherwarning": {
     "criteria": {
       "entered": "2024-05-12 12:43:35 +1000"
+    },
+    "done": true
+  },
+  "toroquest:honored": {
+    "criteria": {
+      "honored": "2024-06-30 20:14:18 +1000"
     },
     "done": true
   },
@@ -620,15 +633,15 @@
     },
     "done": true
   },
-  "triumph:advancements/magick/theurgy/ritualtable": {
-    "criteria": {
-      "ritualTableCraft": "2024-06-29 23:29:10 +1000"
-    },
-    "done": true
-  },
   "triumph:advancements/magick/alchemy/visshard": {
     "criteria": {
       "Vis Shard": "2024-06-29 22:36:55 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/theurgy/ritualtable": {
+    "criteria": {
+      "ritualTableCraft": "2024-06-29 23:29:10 +1000"
     },
     "done": true
   },
@@ -768,6 +781,12 @@
     },
     "done": true
   },
+  "triumph:advancements/deaths/zombieplayer": {
+    "criteria": {
+      "PlayerZombie": "2024-07-02 23:52:19 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/killedharvester": {
     "criteria": {
       "Harvester": "2024-05-12 12:28:52 +1000"
@@ -776,7 +795,8 @@
   },
   "triumph:advancements/setbonuses/column6/takingaim": {
     "criteria": {
-      "Silver Boots": "2024-05-12 12:46:59 +1000"
+      "Silver Boots": "2024-05-12 12:46:59 +1000",
+      "Silver Helmet": "2024-07-01 19:53:15 +1000"
     },
     "done": false
   },

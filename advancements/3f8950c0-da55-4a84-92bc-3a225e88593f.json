@@ -34,7 +34,8 @@
       "Bronze Boots": "2024-05-12 12:19:33 +1000",
       "Bronze Helmet": "2024-05-14 19:56:34 +1000",
       "Bronze Sword": "2024-05-13 21:29:51 +1000",
-      "Bronze Leggings": "2024-05-13 16:32:19 +1000"
+      "Bronze Leggings": "2024-05-13 16:32:19 +1000",
+      "Bronze Chestplate": "2024-06-30 20:15:48 +1000"
     },
     "done": false
   },
@@ -177,6 +178,12 @@
   "triumph:advancements/magick/theurgy/arcaneintent": {
     "criteria": {
       "arcaneFocusAwaken": "2024-06-29 23:35:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/golemancy/golemspell": {
+    "criteria": {
+      "goleSpellCraft": "2024-06-30 19:15:06 +1000"
     },
     "done": true
   },
@@ -395,6 +402,12 @@
   "triumph:advancements/progression/netherwarning": {
     "criteria": {
       "entered": "2024-05-12 12:43:35 +1000"
+    },
+    "done": true
+  },
+  "toroquest:honored": {
+    "criteria": {
+      "honored": "2024-06-30 19:54:21 +1000"
     },
     "done": true
   },
@@ -749,6 +762,7 @@
   "triumph:advancements/setbonuses/column0/powerfulpunches": {
     "criteria": {
       "Bronze Boots": "2024-05-12 12:19:33 +1000",
+      "Bronze Chesplate": "2024-06-30 20:15:48 +1000",
       "Bronze Helmet": "2024-05-14 19:56:34 +1000",
       "Bronze Leggings": "2024-05-13 16:32:19 +1000"
     },

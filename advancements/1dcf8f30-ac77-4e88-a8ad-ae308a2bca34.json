@@ -167,6 +167,18 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/theurgy/arcaneintent": {
+    "criteria": {
+      "arcaneFocusAwaken": "2024-07-01 20:01:30 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/golemancy/golemspell": {
+    "criteria": {
+      "goleSpellCraft": "2024-07-01 20:01:30 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/ores/ambrosium": {
     "criteria": {
       "Ambrosium": "2024-05-16 20:25:20 +1000"
@@ -353,6 +365,12 @@
     },
     "done": true
   },
+  "triumph:advancements/basedefense/recruit_help/guards": {
+    "criteria": {
+      "Guards! Help!": "2024-07-01 20:01:30 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/leyoftheland/magicforest": {
     "criteria": {
       "Mystic Grove": "2024-05-10 22:02:37 +1000"
@@ -374,6 +392,12 @@
   "triumph:advancements/progression/netherwarning": {
     "criteria": {
       "entered": "2024-05-12 12:43:35 +1000"
+    },
+    "done": true
+  },
+  "toroquest:honored": {
+    "criteria": {
+      "honored": "2024-07-01 20:01:30 +1000"
     },
     "done": true
   },
@@ -441,6 +465,12 @@
   "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
     "criteria": {
       "Iron Chestplate": "2024-05-10 22:00:45 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/ebook": {
+    "criteria": {
+      "Enchanted Book": "2024-07-01 20:01:30 +1000"
     },
     "done": true
   },
@@ -622,6 +652,18 @@
     },
     "done": true
   },
+  "triumph:advancements/magick/theurgy/ritualtable": {
+    "criteria": {
+      "ritualTableCraft": "2024-07-01 20:01:30 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/visshard": {
+    "criteria": {
+      "Vis Shard": "2024-07-01 20:01:30 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/magick/leyoftheland/leyoftheland": {
     "criteria": {
       "location": "2024-05-10 22:00:45 +1000"
@@ -684,6 +726,12 @@
   "triumph:advancements/progression/nether/steel": {
     "criteria": {
       "Crude Steel": "2024-05-11 14:01:13 +1000"
+    },
+    "done": true
+  },
+  "toroquest:friendly": {
+    "criteria": {
+      "friendly": "2024-07-01 20:01:30 +1000"
     },
     "done": true
   },
@@ -760,6 +808,12 @@
     },
     "done": true
   },
+  "triumph:advancements/deaths/zombieplayer": {
+    "criteria": {
+      "PlayerZombie": "2024-07-02 23:52:19 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/bosskills/killedharvester": {
     "criteria": {
       "Harvester": "2024-05-11 19:14:43 +1000"
@@ -776,6 +830,12 @@
   "triumph:advancements/setbonuses/column1/dedicatedworker/leggings": {
     "criteria": {
       "Jungle leggings": "2024-05-11 21:09:03 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/transitionwarning": {
+    "criteria": {
+      "break_barrier 2": "2024-07-01 20:01:30 +1000"
     },
     "done": true
   },
@@ -941,6 +1001,12 @@
     },
     "done": true
   },
+  "triumph:advancements/progression/beneath/enterbeneath": {
+    "criteria": {
+      "entered_beneath": "2024-07-01 20:01:30 +1000"
+    },
+    "done": true
+  },
   "triumph:advancements/progression/earlyarmor": {
     "criteria": {
       "Early Armor": "2024-05-10 22:00:45 +1000"
@@ -965,6 +1031,12 @@
   "triumph:advancements/ores/iron": {
     "criteria": {
       "Iron ore": "2024-05-11 20:41:52 +1000"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/warding/arcanebar_destroy": {
+    "criteria": {
+      "arcaneBarrierFocus": "2024-07-01 20:01:30 +1000"
     },
     "done": true
   },
